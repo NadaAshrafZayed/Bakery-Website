@@ -1,0 +1,32 @@
+.BigContainer{
+    margin-top: 50px;
+    margin-bottom:25px;
+    width: 100%;
+    background-color: #FAF8F1;
+    /* background-color: black; */
+}
+.twoDivs{
+    display: inline-block;
+    width: 43%;
+}
+.LocationParagraph{
+    font-size: 15px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 10px;
+     /* background-color: orange; */
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.divPhoto{
+    margin-top: 40px;
+    margin-left: 80px;
+    /* width: 45%; */
+    background-color: blueviolet;
+}
+.photo{
+    width:100%;
+}

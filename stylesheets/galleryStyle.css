@@ -1,0 +1,30 @@
+.smallPrgh{
+    text-align: center;
+}
+.smallPrgh h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.smallPrgh p{
+    font-size: 18px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.oneStuff{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 33%;
+    float: left;
+}
+.divPhoto{
+    width: 100%;
+}
+.photo{
+    width: 98%;
+}
+.description{
+    text-align: center;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+}

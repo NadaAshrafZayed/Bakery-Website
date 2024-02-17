@@ -1,0 +1,69 @@
+.largeDiv1{
+    background-color: #C7BCA1;
+    padding-top: 50px;
+}
+.bigDiv{
+    /* background-color:bisque; */
+    /* margin-top: 55px; */
+    /* width: 21%; */
+    float: left;
+}
+.bigDiv h3{
+    font-size: 25px;
+    color:white;
+}
+.bigDiv1{
+    width: 20%;
+    margin-left: 30px;
+}
+.bigDiv1 p{
+    color: gray;
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bigDiv2and3{
+    width: 21%;
+    margin-left: 20px;
+}
+.bigDiv2and3 p{
+    color: gray;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* hr{
+    color: black;
+} */
+.bigDiv4{
+    margin-left: 15px;
+    width: 27%;
+}
+.TablePhotos{
+    width: 30px;
+}
+.TablesP{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.largeDiv2{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: #3C4048;
+}
+.largeDiv2 img{
+    width: 18%;
+}
+.largeDiv2 p{
+    color: gray;
+}
+.clear{
+    clear: both;
+}
+.logoContainer{
+    margin-left: 570px;
+    width: 8%;
+}
+.logos{
+    width: 100%;
+}

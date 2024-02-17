@@ -1,0 +1,36 @@
+/* For about page */
+.BigContainer{
+    margin-top: 50px;
+    margin-bottom:25px;
+    width: 100%;
+    background-color: #FAF8F1;
+}
+.twoDivs{
+    display: inline-block;
+    width: 47%;
+}
+.divPhoto{
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: center;
+}
+.photo{
+    width: 100%;
+}
+.whoWeAre{
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+.TablePhotos{
+    width: 20px;
+}
+.TablesP{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

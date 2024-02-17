@@ -1,0 +1,42 @@
+body{
+    background-color: #F3EFE0;
+}
+.sidebyside{
+    float: left;
+    width: 42%;
+}
+.divParagraph{
+    margin-top: 100px;
+    margin-left: 75px;
+    /* background-color: brown; */
+}
+.middlePrgh{
+    text-align: center;
+}
+.middlePrgh h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.middlePrgh p{
+    font-size: 18px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.details p{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.TablePhotos{
+    width: 20px;
+}
+.TablesP{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.map{
+    margin-top: 240px;
+    margin-left: 75px;
+}
+.photo{
+    width:100%;
+}

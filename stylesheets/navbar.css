@@ -1,0 +1,19 @@
+.navbar{
+    margin-left: 890px;
+    display: inline-block;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+a:link{
+    color: #E8F3D6;
+}
+a:visited {
+    color: #E5D9B6;
+  }
+
+.containerUp img{
+    float: left;
+    width: 10%;
+}
